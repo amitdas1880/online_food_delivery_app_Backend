@@ -1,0 +1,17 @@
+npm init
+npm i express
+npm i mongoose
+npm i jsonwebtoken
+npm i bcrypt
+npm i cors  
+npm i dotenv
+npm i body-parser
+npm i multer
+npm i validator
+npm i nodemon
+npm i razorpay
+
+
+
+
+
